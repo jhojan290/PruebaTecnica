@@ -1,0 +1,14 @@
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\bin\Debug\net8.0\Bingo.core.deps.json
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\bin\Debug\net8.0\Bingo.core.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\bin\Debug\net8.0\Bingo.core.pdb
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\Bingo.core.csproj.AssemblyReference.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\Bingo.core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\Bingo.core.AssemblyInfoInputs.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\Bingo.core.AssemblyInfo.cs
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\Bingo.core.csproj.CoreCompileInputs.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\Bingo.core.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\refint\Bingo.core.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\Bingo.core.pdb
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\ref\Bingo.core.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\bin\Debug\net8.0\Bingo.Core.runtimeconfig.json
+C:\Users\jhoja\source\repos\Bingo\Bingo.core\obj\Debug\net8.0\Bingo.Core.genruntimeconfig.cache

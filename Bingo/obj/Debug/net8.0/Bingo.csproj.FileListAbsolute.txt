@@ -1,0 +1,7 @@
+C:\Users\jhoja\source\repos\Bingo\Bingo\obj\Debug\net8.0\Bingo.csproj.AssemblyReference.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo\obj\Debug\net8.0\Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoja\source\repos\Bingo\Bingo\obj\Debug\net8.0\Bingo.AssemblyInfoInputs.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo\obj\Debug\net8.0\Bingo.AssemblyInfo.cs
+C:\Users\jhoja\source\repos\Bingo\Bingo\obj\Debug\net8.0\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo\obj\Debug\net8.0\Bingo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jhoja\source\repos\Bingo\Bingo\obj\Debug\net8.0\Bingo.MvcApplicationPartsAssemblyInfo.cache

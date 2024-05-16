@@ -1,0 +1,17 @@
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\bin\Debug\net8.0\Bingo.infrastructure.deps.json
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\bin\Debug\net8.0\Bingo.infrastructure.runtimeconfig.json
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\bin\Debug\net8.0\Bingo.infrastructure.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\bin\Debug\net8.0\Bingo.infrastructure.pdb
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.infrastructure.csproj.AssemblyReference.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.infrastructure.AssemblyInfoInputs.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.infrastructure.AssemblyInfo.cs
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.infrastructure.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\refint\Bingo.infrastructure.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.infrastructure.pdb
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.infrastructure.genruntimeconfig.cache
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\ref\Bingo.infrastructure.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\bin\Debug\net8.0\Bingo.Core.dll
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\bin\Debug\net8.0\Bingo.Core.pdb
+C:\Users\jhoja\source\repos\Bingo\Bingo.infrastructure\obj\Debug\net8.0\Bingo.In.04217F40.Up2Date
